@@ -1,6 +1,3 @@
 # Promiscuous Pairing
 
-Kata:
-String calc
-Primes
-Natural Sort
+Repository for the Leeds Code Dojo July 2019 session.
